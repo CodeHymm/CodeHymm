@@ -47,7 +47,7 @@ Java · Spring Boot · React · Node.js · Python
 Java/Spring 또는 Python 기반 백엔드, React·Node.js 웹서비스, AI Agent, 실시간 데이터 플랫폼 프로젝트에 참여하고자 합니다.
 
 - **계약 형태:** 프리랜서 / 프로젝트 계약
-- **투입 가능일:** 2협의 가능
+- **투입 가능일:** 협의 가능
 - **근무 선호 지역:** 서울 강남, 판교, 분당, 수원, 동탄
 - **문의:** [LinkedIn 메시지](https://www.linkedin.com/in/byungjun-cha/)
 
