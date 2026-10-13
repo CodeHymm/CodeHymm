@@ -30,7 +30,7 @@ Java · Spring Boot · React · Node.js · Python
 
 `Java` `Netty` `ActiveMQ Artemis` `PostgreSQL` `ClickHouse` `WebSocket`
 
-### [VCP-X 제조 데이터 교환 플랫폼](VCP_X_REPOSITORY_URL)
+### [VCP-X 제조 데이터 교환 플랫폼](https://github.com/CodeHymm/vcp_data_platform)
 
 여러 공장의 제조 데이터를 표준화하고, 구독 조건에 따라 필요한 기업에 주기적으로 전달하는 데이터 플랫폼 설계입니다.
 
