@@ -19,6 +19,7 @@ Java · Spring Boot · React · Node.js · Python
 
 `Python` `FastAPI` `LangGraph` `ClickHouse` `RAG`
 
+
 ### [환자 모니터링 CMS 아키텍처](https://github.com/CodeHymm/cms-architecture-sample)
 
 의료 장비 데이터 수집부터 메시징, 저장, API와 실시간 화면 제공까지의 구조를 정리한 설계 자료입니다.
@@ -29,6 +30,17 @@ Java · Spring Boot · React · Node.js · Python
 
 `Java` `Netty` `ActiveMQ Artemis` `PostgreSQL` `ClickHouse` `WebSocket`
 
+### [VCP-X 제조 데이터 교환 플랫폼](VCP_X_REPOSITORY_URL)
+
+여러 공장의 제조 데이터를 표준화하고, 구독 조건에 따라 필요한 기업에 주기적으로 전달하는 데이터 플랫폼 설계입니다.
+
+- OPC UA 기반 공장 데이터 수집과 Avro 표준화·AAS 모델링
+- MSK·SNS·SQS·Lambda 기반 구독 데이터 전달 및 고객 API 연계
+- DPP·PCF 활용 데이터 구성과 고객·공장별 S3 데이터 보관
+
+`Java` `Spring Boot` `Python` `Kafka / MSK` `Avro` `AAS` `AWS Lambda`
+
+
 ## 개발 경험
 
 | 분야 | 주요 경험 |
@@ -38,7 +50,8 @@ Java · Spring Boot · React · Node.js · Python
 | 실시간 데이터 | Netty, Kafka, ActiveMQ Artemis, Redis·Jedis 기반 데이터 교환 |
 | 데이터 플랫폼 | ClickHouse, TimescaleDB, MySQL, Airflow, Flink, ETL |
 | AI 서비스 | LangGraph, RAG, LLM, Amazon Bedrock |
-| 인증·인프라 | JWT, Keycloak, AWS, Docker |
+| AWS 서비스 | Amazon MSK, S3, SNS, SQS, AWS Lambda, Amazon Bedrock |
+| 인증·인프라 | JWT, Keycloak, Docker |
 
 직접 개발을 병행하는 Tech Lead·PL로 코드 리뷰, 기술 이슈 해결, 시스템 간 인터페이스 협의를 수행했습니다.
 
