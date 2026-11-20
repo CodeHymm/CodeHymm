@@ -53,7 +53,7 @@ Java · Spring Boot · React · Node.js · Python
 | AWS 서비스 | Amazon MSK, S3, SNS, SQS, AWS Lambda, Amazon Bedrock |
 | 인증·인프라 | JWT, Keycloak, Docker |
 
-직접 개발을 병행하는 Tech Lead·PL로 코드 리뷰, 기술 이슈 해결, 시스템 간 인터페이스 협의를 수행했습니다.
+
 
 ## 프로젝트 협업
 
