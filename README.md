@@ -20,15 +20,6 @@ Java · Spring Boot · React · Node.js · Python
 `Python` `FastAPI` `LangGraph` `ClickHouse` `RAG`
 
 
-### [환자 모니터링 CMS 아키텍처](https://github.com/CodeHymm/cms-architecture-sample)
-
-의료 장비 데이터 수집부터 메시징, 저장, API와 실시간 화면 제공까지의 구조를 정리한 설계 자료입니다.
-
-- Netty 기반 데이터 수집과 메시징 파이프라인
-- PostgreSQL·ClickHouse를 활용한 데이터 저장 구조
-- 백엔드 서비스와 웹 화면을 연결하는 데이터 흐름
-
-`Java` `Netty` `ActiveMQ Artemis` `PostgreSQL` `ClickHouse` `WebSocket`
 
 ### [VCP-X 제조 데이터 교환 플랫폼](https://github.com/CodeHymm/vcp_data_platform)
 
