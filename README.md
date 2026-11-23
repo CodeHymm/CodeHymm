@@ -31,6 +31,16 @@ Java · Spring Boot · React · Node.js · Python
 
 `Java` `Spring Boot` `Python` `Kafka / MSK` `Avro` `AAS` `AWS Lambda`
 
+### [제조 데이터 Data Lake](https://github.com/CodeHymm/manufacturing-datalake)
+
+반도체 제조 장비 로그와 환경 센서 데이터를 S3에 모으고, Parquet으로 변환해 조회·분석할 수 있게 하는 Data Lake 설계입니다.
+
+- MSK·Kinesis·Lambda 기반 장비 로그·센서 데이터 수집과 S3 Raw 적재
+- Spark 기반 Glue ETL의 정제·Parquet 변환과 일자·장비 단위 파티셔닝
+- Glue Data Catalog·Athena 조회, QuickSight 리포트, Airflow 워크플로 구성
+
+`Python` `Spark` `AWS Glue` `S3` `Parquet` `Athena` `Airflow`
+
 
 ## 개발 경험
 
