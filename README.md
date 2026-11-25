@@ -63,6 +63,6 @@ Java/Spring 또는 Python 기반 백엔드, React·Node.js 웹서비스, AI Agen
 - **계약 형태:** 프리랜서 / 프로젝트 계약
 - **투입 가능일:** 협의 가능
 - **근무 선호 지역:** 서울 강남, 판교, 분당, 수원, 동탄
-- **문의:** [LinkedIn 메시지](https://www.linkedin.com/in/byungjun-cha/)
+- **문의:** 8mega@naver.com
 
 프로젝트의 개발 범위와 일정을 보내주시면 참여 가능 여부를 말씀드리겠습니다.
